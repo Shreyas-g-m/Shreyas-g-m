@@ -16,7 +16,7 @@ Motivated Computer Science student at **BMS College of Engineering**, eager to g
 - HTML  
 - CSS  
 
-## **Frameworks & Libraries**
+## Frameworks & Libraries
 - React.js  
 - Node.js  
 - Express.js  
@@ -56,12 +56,11 @@ Motivated Computer Science student at **BMS College of Engineering**, eager to g
 - Telugu  
 
 
-# ** Favorite Projects**
-
-## ** Hate Speech Detection**
+##  Favorite Projects
+ ** Hate Speech Detection**
 Leveraging ML/NLP to identify and reduce toxic content online.
 
-## ** Smart Assistant**
+ ** Smart Assistant**
 Building intelligent assistants to boost productivity and accessibility.
 
 

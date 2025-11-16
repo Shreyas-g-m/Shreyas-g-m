@@ -57,10 +57,10 @@ Motivated Computer Science student at **BMS College of Engineering**, eager to g
 
 
 ##  Favorite Projects
- ** Hate Speech Detection**
+Hate Speech Detection
 Leveraging ML/NLP to identify and reduce toxic content online.
 
- ** Smart Assistant**
+Smart Assistant
 Building intelligent assistants to boost productivity and accessibility.
 
 

@@ -5,7 +5,7 @@
 Motivated Computer Science student at **BMS College of Engineering**, eager to grow through hands-on projects and internships. Passionate about learning and problem-solving, I thrive in agile, fast-paced environments—always striving to adapt, collaborate, and deliver meaningful solutions.
 
 
-# ** Skills & Technologies**
+#  Skills & Technologies
 
 ## **Languages**
 - Java
@@ -64,7 +64,7 @@ Leveraging ML/NLP to identify and reduce toxic content online.
 Building intelligent assistants to boost productivity and accessibility.
 
 
-# ** Education**
+#  Education
 - **BMS College of Engineering**  
 - **Trisha PU College**  
 - **Pupiltree International Residential School**

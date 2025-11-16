@@ -1,14 +1,15 @@
-# Hi there, I’m Shreyas
+# **👋 Hi there, I’m Shreyas**
 
 ### **Tech Enthusiast | Creative Problem Solver | Innovating with Code**
 
 Motivated Computer Science student at **BMS College of Engineering**, eager to grow through hands-on projects and internships. Passionate about learning and problem-solving, I thrive in agile, fast-paced environments—always striving to adapt, collaborate, and deliver meaningful solutions.
 
 
-# **🚀Skills & Technologies**
+# ** Skills & Technologies**
 
 ## **Languages**
-- Java  
+- Java
+- python 
 - JavaScript  
 - Kotlin  
 - Solidity  
@@ -22,13 +23,25 @@ Motivated Computer Science student at **BMS College of Engineering**, eager to g
 - Spring Boot  
 - Spring AI  
 
+## **AI / Machine Learning / Computer Vision**
+- Python for ML  
+- NumPy · Pandas · 
+- TensorFlow · PyTorch  
+- Convolutional Neural Networks (CNNs)  
+- ResNet Architectures (ResNet-18/telnet)  
+- Image Classification & Object Detection  
+- Computer Vision (OpenCV)
+- yolo   
+- Model Evaluation & Optimization  
+
 ## **Databases**
 - MongoDB  
 - PostgreSQL  
 - Firebase  
 
 ## **Tools & Platforms**
-- Git · GitHub  
+- Git · GitHub
+- google collab 
 - Postman  
 - VS Code · IntelliJ IDEA  
 - Figma  

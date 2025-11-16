@@ -1,4 +1,4 @@
-# **👋 Hi there, I’m Shreyas**
+# ** Hi, I’m Shreyas**
 
 ### **Tech Enthusiast | Creative Problem Solver | Innovating with Code**
 
